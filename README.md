@@ -1,8 +1,19 @@
 # Twitter Recommendation Algorithm
 
+> The main goal of the twitter algorithm is to maximize unregretted user minutes.
+
+Elon Musk
+
+To help someone feel that they didn't regret their time, they must feel that they have been given something of value for their time.  
+Which means the algorithm must seek to provide value to the user and give them things like entertainment, information, or both.  
+
+## Technical Breakdown
+
 The Twitter Recommendation Algorithm is a set of services and jobs that are responsible for constructing and serving the
 Home Timeline. For an introduction to how the algorithm works, please refer to our [engineering blog](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm). The
 diagram below illustrates how major services and jobs interconnect.
+
+
 
 ![](docs/system-diagram.png)
 
